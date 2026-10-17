@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pika/pika/commit/e31246e2038fc8cd140d873b654999ef0bec09e1",
       "git:hexsha": "e31246e2038fc8cd140d873b654999ef0bec09e1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T00:24:53.031138+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pika/pika/commit/b907f91415169b7f590174ab5d228e75a1b273e6",
